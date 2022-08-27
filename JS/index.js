@@ -14,17 +14,6 @@
         });
     </script>
 
-    
-
-@media min width (whatever mobile size is) --- anything below 600 is display: none; 
-display:; block;
-
-max width 600, display none
-
-
-nav-link
-
-
 
 
 
